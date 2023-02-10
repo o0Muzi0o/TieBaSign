@@ -2,7 +2,7 @@ name: 'Baidu Tieba Auto Sign'
 
 on:
   schedule:
-    - cron: '13 17,23 * * *'
+    - cron: '10 22,18 * * *'
   workflow_dispatch:
 
 jobs:
